@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KennyMesidor/azure-network-protocols)
  
   - - <b>Virtual Private Network
-  - [VPN Setup in Virtual Machine](https://github.com/qlchambers/vpn-setup)
+  - [VPN Setup in Virtual Machine](https://github.com/KennyMesidor/vpn-setup)
 
 <h2>🤳Connect with me:</h2>
 
