@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KennyMesidor/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KennyMesidor/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/KennyMesidor/Network-File-Shares-and-Permissions)
  
 - <b>Virtual Private Network
   - [VPN Setup in Virtual Machine](https://github.com/KennyMesidor/vpn-setup)
